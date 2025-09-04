@@ -30,7 +30,7 @@ B.S. in Neuroscience \| August 2019 - May 2023
 
 ## Skill Sets
 
-**Wet-Bench** \| Cell Culture \| RNAseq Library Prep \| RNA and DNA Analysis \| Current and Voltage Clamp Experiments
+**Wet-Bench** \| Cell Culture \| RNAseq Library Prep \| RNA and DNA Isolation Analysis \| Current and Voltage Clamp Experiments \| cDNA Synthesis, PCR, RT-PCR and dPCR \| EMG Synthesis
 
-**Computational** \| R \| Single and Bulk RNAseq Analysis \| Python \| 
+**Computational** \| R \| Bioconductor \| Python \| Single and Bulk RNAseq Analysis (Seurat, Salmon, DESeq2, WGCNA) \| Java
 
