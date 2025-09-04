@@ -6,32 +6,31 @@ links:
     url: "www.linkedin.com/in/anatopasna"
   - label: 💻 GitHub
     url: "https://github.com/atopasn1"
-  - label: ✉︎ Email
-    text: "atopasn1@jh.edu"
+  - label: ✉︎ Email atopasn1@jh.edu
+    url: "atopasn1@jh.edu"
 output:
   postcards::trestles
 ---
 
 ## Bio
 
-Ana Topasna is a 3rd year PhD Candidate in the Human Genomics and Genetics program at Johns Hopkins. Her thesis work focuses on understanding the genetic causes of non-CF bronchectasis and investigating novel therapeutics for intronic CF variants. 
+Ana Topasna is a 3rd year PhD Candidate in the Human Genomics and Genetics program at Johns Hopkins. She is interested in genetic disorders that exhibit allelic heterogeneity and how personalized medicine can be used to tailor small molecule therapies. Her thesis work focuses on understanding the genetic causes of non-CF bronchectasis and investigating novel therapeutics for intronic CF variants. 
 
 Outside of work Ana enjoys rock climbing 🧗, snowboarding 🏂 and reading 📜.
 
 ## Education
 
-**Johns Hopkins School of Medicine** \| Baltimore, MD
+**Johns Hopkins School of Medicine** \| 📍 Baltimore, MD
 
 Ph.D. in Human Genetics and Genomics \| August 2023 - Present
 
-**Reed College** \| Portland, OR
+**Reed College** \| 📍 Portland, OR
 
 B.S. in Neuroscience \| August 2019 - May 2023
 
 ## Skill Sets
 
-**Google Brain** \| Principal Investigator \| January 2018 - Present
+**Wet-Bench** \| Cell Culture \| RNAseq Library Prep \| RNA and DNA Analysis \| Current and Voltage Clamp Experiments
 
-**Netflix** \| Research Scientist \| June 2014 - December 2017
+**Computational** \| R \| Single and Bulk RNAseq Analysis \| Python \| 
 
-image: "frank.jpg"
