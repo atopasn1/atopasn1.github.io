@@ -1,0 +1,35 @@
+---
+title: "Ana Topasna"
+image: "ana.jpg"
+links:
+  - label: 📑 LinkedIn
+    url: "www.linkedin.com/in/anatopasna"
+  - label: 💻 GitHub
+    url: "https://github.com/atopasn1"
+  - label: ✉︎ Email
+    text: "atopasn1@jh.edu"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+Ana Topasna is a 3rd year PhD Candidate in the Human Genomics and Genetics program at Johns Hopkins. Her thesis work focuses on understanding the genetic causes of non-CF bronchectasis and investigating novel therapeutics for intronic CF variants. 
+
+## Education
+
+**Johns Hopkins School of Medicine** \| Baltimore, MD
+
+Ph.D. in Human Genetics and Genomics \| August 2023 - Present
+
+**Reed College** \| Portland, OR
+
+B.S. in Neuroscience \| August 2019 - May 2023
+
+## Skill Sets
+
+**Google Brain** \| Principal Investigator \| January 2018 - Present
+
+**Netflix** \| Research Scientist \| June 2014 - December 2017
+
+image: "frank.jpg"
